@@ -28,3 +28,11 @@ The project is tested for:
 - Blinking timing
 - Program compilation
 - Power supply
+
+
+## QA Resolution Tracking
+
+The identified QA issues were reviewed and documented using GitHub Issues.
+The GPIO configuration issue was corrected and the updated code was committed.
+The QA fixes branch was used to track project corrections before merging them
+into the main branch.
